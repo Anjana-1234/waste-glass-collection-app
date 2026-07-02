@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My projects\\Spillabs Intern\\WasteGlassApp\\backend\\WasteGlassApi\\WasteGlassApi.csproj": {}
+    "D:\\MyProjects\\SpillabsIntern\\WasteGlassApp\\backend\\WasteGlassApi\\WasteGlassApi.csproj": {}
   },
   "projects": {
-    "D:\\My projects\\Spillabs Intern\\WasteGlassApp\\backend\\WasteGlassApi\\WasteGlassApi.csproj": {
+    "D:\\MyProjects\\SpillabsIntern\\WasteGlassApp\\backend\\WasteGlassApi\\WasteGlassApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My projects\\Spillabs Intern\\WasteGlassApp\\backend\\WasteGlassApi\\WasteGlassApi.csproj",
+        "projectUniqueName": "D:\\MyProjects\\SpillabsIntern\\WasteGlassApp\\backend\\WasteGlassApi\\WasteGlassApi.csproj",
         "projectName": "WasteGlassApi",
-        "projectPath": "D:\\My projects\\Spillabs Intern\\WasteGlassApp\\backend\\WasteGlassApi\\WasteGlassApi.csproj",
+        "projectPath": "D:\\MyProjects\\SpillabsIntern\\WasteGlassApp\\backend\\WasteGlassApi\\WasteGlassApi.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\My projects\\Spillabs Intern\\WasteGlassApp\\backend\\WasteGlassApi\\obj\\",
+        "outputPath": "D:\\MyProjects\\SpillabsIntern\\WasteGlassApp\\backend\\WasteGlassApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

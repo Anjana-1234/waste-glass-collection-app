@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tmVMTuWatHo=",
+  "dgSpecHash": "vrdMJOkWZAM=",
   "success": true,
-  "projectFilePath": "D:\\My projects\\Spillabs Intern\\WasteGlassApp\\backend\\WasteGlassApi\\WasteGlassApi.csproj",
+  "projectFilePath": "D:\\MyProjects\\SpillabsIntern\\WasteGlassApp\\backend\\WasteGlassApi\\WasteGlassApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
